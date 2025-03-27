@@ -14,6 +14,7 @@ body {
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0 0 20px #FFD700;
+    margin-top: 30px;
 }
 
 h1 {
@@ -24,9 +25,27 @@ h1 {
 h2 {
     color: #ccc;
     text-align: center;
+    margin-bottom: 20px;
 }
 
 p {
     line-height: 1.6;
     font-size: 16px;
+}
+
+.vita-essence {
+    background-color: #1b1b1b;
+}
+
+.image-block {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.essence-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #FFD700;
+    margin-bottom: 10px;
 }
